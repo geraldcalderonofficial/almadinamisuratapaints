@@ -1,0 +1,733 @@
+a:8:{i:0;a:7:{s:14:"information_id";s:1:"4";s:6:"bottom";s:1:"1";s:10:"sort_order";s:1:"1";s:6:"status";s:1:"0";s:11:"language_id";s:1:"1";s:5:"title";s:8:"About Us";s:11:"description";s:2452:"&lt;div&gt;
+&lt;div style=&quot;float: left; width: 40%; &quot;&gt;&lt;img src=&quot;&quot; style=&quot;border: 1px solid #ccc; width: 150px; height: 150px; margin: 10px; float: left; &quot; /&gt;
+&lt;div style=&quot;float: left; width: 280px; padding-top: 10px;&quot;&gt;
+&lt;p&gt;I have the pleasure to welcome you at Al Madina Misurata Paints website through which we would like to convey to you every new in the world of paint as development is the motto of Al Madina Misurata Paints, it is our goal to make the phrase (made in Libya ) a goal that must reach all corners of the world.&lt;/p&gt;
+
+&lt;p&gt;We also hope that our site will meet all your desires and needs. We are ready and pleased to receive your suggestions and observations.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abdullah Suliman ben Nasser&lt;/strong&gt;&lt;br /&gt;
+Chairman&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;border: 1px dashed green; float: right; width: 55%&quot;&gt;
+&lt;p&gt;Al Madina Misurata Paints is one of the most highbred and pioneer Libyan establishments in this industry. It was founded in 1993 with the production 0f water and oily paints, then it started following the procession of the world of paints by employing the most efficient and experienced engineers in order to produce high quality products that comply with the best chemical specifications in the industry.&lt;/p&gt;
+
+&lt;p&gt;Al Madina Misurata Paints can now produce all types of water, oily, decorative, rubber, mineral surfaces, varnishes, wood glues, phosphoric, concrete, roads and all paints and pastes used in painting walls.&lt;/p&gt;
+
+&lt;p&gt;We have the best equipped laboratories to obtain the best quality paints.&lt;/p&gt;
+
+&lt;p&gt;The development occurring in Al Madina Misurata Paints products is a clear proof of the extent of the development of the technology we have. Entering the scope of coloring by the computer Al Madina Misurata Paints had an effect on raising the Libyan industry to high international standards.&lt;/p&gt;
+
+&lt;p&gt;Al Madina Misurata Paints is following the most modern methods of coloring by which we can color 15000 colors as our coloring team use the most modern means of coloring and packing.&lt;/p&gt;
+
+&lt;p&gt;Our research and development department is continuously ready to provide you with the best products in the industry of paint.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+";}i:1;a:7:{s:14:"information_id";s:1:"8";s:6:"bottom";s:1:"1";s:10:"sort_order";s:1:"5";s:6:"status";s:1:"0";s:11:"language_id";s:1:"1";s:5:"title";s:12:"Applications";s:11:"description";s:4150:"&lt;style type=&quot;text/css&quot;&gt;/*Application Page*/
+
+
+  
+  
+  #content { 
+    min-height: 730px; padding-bottom: 1em;
+}
+h3#app-title { 
+    width: 90%; 
+    padding-top: 2em; 
+    padding-bottom: 2em; 
+    margin: 0 auto; 
+} 
+.app-wrapper { 
+    width: 90%; 
+    margin: 0 auto; 
+} 
+.app-wrapper ul.app-tn { 
+    list-style: none; 
+    padding: 0 0 2em 0;
+    height: 300px;
+    
+} 
+ul.app-tn li { 
+    display: block; 
+    float: left; 
+    padding: 10px; 
+    width: 305px; 
+    height: 177px; 
+} 
+.app-title-tn { 
+    margin-top: 1em; 
+} 
+.app-title-tn a { 
+    color: #004BBD; 
+} 
+.app-title-tn a:hover { 
+    color: #333333; 
+}
+&lt;/style&gt;
+&lt;section aria-hidden=&quot;true&quot; aria-labelledby=&quot;modal-label&quot; class=&quot;semantic-content&quot; id=&quot;modal-text&quot; role=&quot;dialog&quot; tabindex=&quot;-1&quot;&gt;
+&lt;div class=&quot;modal-inner&quot;&gt;
+&lt;header&gt;
+&lt;h2 id=&quot;modal-label&quot;&gt;Headline&lt;/h2&gt;
+&lt;/header&gt;
+
+&lt;div class=&quot;modal-content&quot;&gt;&lt;embed height=&quot;345&quot; src=&quot;http://www.youtube.com/v/XGSy3_Czz8k&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;620&quot;&gt;&lt;/embed&gt;&lt;/div&gt;
+&lt;!--&lt;footer&gt;
+                        &lt;p&gt;Footer&lt;/p&gt;
+                &lt;/footer&gt;--&gt;&lt;/div&gt;
+&lt;!-- Use Hash-Bang to maintain scroll position when closing modal --&gt;&lt;a class=&quot;modal-close&quot; data-dismiss=&quot;modal&quot; href=&quot;#!&quot; title=&quot;Close this modal&quot;&gt;×&lt;/a&gt;&lt;/section&gt;
+
+&lt;p&gt;&lt;a class=&quot;call-modal&quot; href=&quot;#modal-text&quot; title=&quot;Clicking this link shows the modal&quot;&gt;Demo&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;app-wrapper&quot;&gt;
+&lt;h3&gt;Check the video tutorials for our products.&lt;/h3&gt;
+
+&lt;ul class=&quot;app-tn&quot;&gt;
+	&lt;li&gt;&lt;a&gt;&lt;img src=&quot;catalog/view/theme/default/image/custom/app/tn1.jpg&quot; /&gt;&lt;/a&gt;
+
+	&lt;h4 class=&quot;app-title-tn&quot;&gt;&lt;a&gt;Primo Oily Coating Half of the Lumen&lt;/a&gt;&lt;/h4&gt;
+
+	&lt;p&gt;Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec enim ..&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a&gt;&lt;img src=&quot;catalog/view/theme/default/image/custom/app/tn2.jpg&quot; /&gt;&lt;/a&gt;
+	&lt;h4 class=&quot;app-title-tn&quot;&gt;&lt;a&gt;Primo Oily Coating Half of the Lumen&lt;/a&gt;&lt;/h4&gt;
+
+	&lt;p&gt;Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec enim ..&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a&gt;&lt;img src=&quot;catalog/view/theme/default/image/custom/app/tn3.jpg&quot; /&gt;&lt;/a&gt;
+	&lt;h4 class=&quot;app-title-tn&quot;&gt;&lt;a&gt;Sapphire City Misratah&lt;/a&gt;&lt;/h4&gt;
+
+	&lt;p&gt;Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec enim ..&lt;/p&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ul class=&quot;app-tn&quot;&gt;
+	&lt;li&gt;&lt;a&gt;&lt;img src=&quot;catalog/view/theme/default/image/custom/app/tn4.jpg&quot; /&gt;&lt;/a&gt;
+
+	&lt;h4 class=&quot;app-title-tn&quot;&gt;&lt;a&gt;Transparent Wood Varnish and Colors&lt;/a&gt;&lt;/h4&gt;
+
+	&lt;p&gt;Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec enim ..&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a&gt;&lt;img src=&quot;catalog/view/theme/default/image/custom/app/tn5.jpg&quot; /&gt;&lt;/a&gt;
+	&lt;h4 class=&quot;app-title-tn&quot;&gt;&lt;a&gt;Wood Oil City Misratah&lt;/a&gt;&lt;/h4&gt;
+
+	&lt;p&gt;Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec enim ..&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a&gt;&lt;img src=&quot;catalog/view/theme/default/image/custom/app/tn6.jpg&quot; /&gt;&lt;/a&gt;
+	&lt;h4 class=&quot;app-title-tn&quot;&gt;&lt;a&gt;Primer Oily Coating Against Rust&lt;/a&gt;&lt;/h4&gt;
+
+	&lt;p&gt;Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec enim ..&lt;/p&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+";}i:2;a:7:{s:14:"information_id";s:2:"10";s:6:"bottom";s:1:"1";s:10:"sort_order";s:1:"5";s:6:"status";s:1:"0";s:11:"language_id";s:1:"1";s:5:"title";s:10:"Contact Us";s:11:"description";s:31:"&lt;p&gt;Contact Us&lt;/p&gt;
+";}i:3;a:7:{s:14:"information_id";s:1:"6";s:6:"bottom";s:1:"1";s:10:"sort_order";s:1:"1";s:6:"status";s:1:"0";s:11:"language_id";s:1:"1";s:5:"title";s:20:"Delivery Information";s:11:"description";s:1125:"&lt;p&gt;&lt;span style=&quot;line-height: 1.6em;&quot;&gt;Prepay and Mobile Broadband orders&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Order before 10am Saturday&amp;nbsp;to Wednesday and you will receive your order the next day.&lt;br /&gt;
+Order before 12pm on Thursday and we'll do our best to get your order to you on Saturday.&lt;br /&gt;
+Order after 12pm on Thursday and we will deliver your phone on Sunday.&lt;br /&gt;
+Bill Pay Orders&lt;/p&gt;
+
+&lt;p&gt;Bill Pay orders are a little different as delivery of your phone depends on how quickly you send us your signed contract and other documents. Once we receive these and process your order, it will be delivered within 3 working days.&lt;/p&gt;
+
+&lt;p&gt;Delivery&lt;/p&gt;
+
+&lt;p&gt;Your package will arrive by your nominated daytime address. Remember, you will be asked to sign for your package, so it might be a good idea to provide your work address if you will not be in. (Sometimes, couriers are not able to gain access to your apartment block. Should this be the case, they will post you a letter to tell you where your package is being held).&lt;/p&gt;
+";}i:4;a:7:{s:14:"information_id";s:1:"7";s:6:"bottom";s:1:"1";s:10:"sort_order";s:1:"4";s:6:"status";s:1:"0";s:11:"language_id";s:1:"1";s:5:"title";s:4:"News";s:11:"description";s:5457:"&lt;style type=&quot;text/css&quot;&gt;.app-wrapper ul.app-tn { 
+    list-style: none; 
+    padding: 0;
+} 
+ul.app-tn li { 
+    display: block; 
+    float: left; 
+    padding: 10px; 
+    margin: 1em;
+} 
+.news-wrapper {
+    margin: 0 auto;
+    width: 90%;
+    height: auto;
+
+}    
+h1#news-title {
+    width: 100%;
+    padding: 1em 0;
+    margin: 0 auto;
+}    
+.news-content-left {
+    float: left;
+    width: 33%;
+    margin-right: 20px; 
+    height: auto; 
+}
+.news-content-left img{
+    text-align: left;
+}  
+.news-content-right {
+    float: left;
+    width: 60%;
+    height: auto; 
+}
+.news-content-title { 
+   
+} 
+.news-content-title a { 
+    color: #004BBD; 
+    text-decoration: underline;
+} 
+.news-content-title a:hover { 
+    color: #333333; 
+}
+&lt;/style&gt;
+&lt;div style=&quot;margin-bottom: 3em!important;&quot;&gt;
+&lt;ul class=&quot;app-tn&quot;&gt;
+	&lt;li&gt;
+	&lt;div class=&quot;news-wrapper&quot;&gt;
+	&lt;div class=&quot;news-content-left&quot;&gt;&lt;a&gt;&lt;img src=&quot;catalog/view/theme/default/image/custom/news/tn1.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;news-content-right&quot;&gt;
+	&lt;h4 class=&quot;news-content-title&quot;&gt;&lt;a&gt;Al Madina Misurata Decorative Paints&lt;/a&gt;&lt;/h4&gt;
+
+	&lt;p&gt;Al Madina Misurata Paints produced a high quality of decorative group of paints which go along with the spirit of the age and compete with the best international products which are available in the market.&lt;/p&gt;
+
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+	&lt;div class=&quot;btn-addtocart right&quot;&gt;&lt;a href=&quot;#&quot;&gt;More details&lt;/a&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	&lt;div class=&quot;news-wrapper&quot;&gt;
+	&lt;div class=&quot;news-content-left&quot;&gt;&lt;a&gt;&lt;img src=&quot;catalog/view/theme/default/image/custom/news/tn2.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;news-content-right&quot;&gt;
+	&lt;h4 class=&quot;news-content-title&quot;&gt;&lt;a&gt;Al Madina Misurata Paints New Integral Modern Lines&lt;/a&gt;&lt;/h4&gt;
+
+	&lt;p&gt;Al Madina Misurata Paints is now establishing new integral modern lines of the production of bitumen which will contribute to the self sufficiency from the products needed by the infra-structure projects in Libya.&lt;/p&gt;
+
+	&lt;p&gt;Wait for it in the Libyan market.&lt;/p&gt;
+
+	&lt;div class=&quot;btn-addtocart right&quot;&gt;&lt;a href=&quot;#&quot;&gt;More details&lt;/a&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	&lt;div class=&quot;news-wrapper&quot;&gt;
+	&lt;div class=&quot;news-content-left&quot;&gt;&lt;a&gt;&lt;img src=&quot;catalog/view/theme/default/image/custom/news/tn3.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;news-content-right&quot;&gt;
+	&lt;h4 class=&quot;news-content-title&quot;&gt;&lt;a&gt;Al Madina Misurata Paints Research and Development Laboratories&lt;/a&gt;&lt;/h4&gt;
+
+	&lt;p&gt;Al Madina Misurata Paints research and development laboratories are at present doing their best to produce high quality pastes that treat the cracks and compete with all international products. This is by using the most modern raw materials and the most efficient chemical engineers.&lt;/p&gt;
+
+	&lt;p&gt;Wait for it in the Libyan market.&lt;/p&gt;
+
+	&lt;div class=&quot;btn-addtocart right&quot;&gt;&lt;a href=&quot;#&quot;&gt;More details&lt;/a&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	&lt;div class=&quot;news-wrapper&quot;&gt;
+	&lt;div class=&quot;news-content-left&quot;&gt;&lt;a&gt;&lt;img src=&quot;catalog/view/theme/default/image/custom/news/tn4.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;news-content-right&quot;&gt;
+	&lt;h4 class=&quot;news-content-title&quot;&gt;&lt;a&gt;Al Madina Misurata Paints Produced Oily Completely Safe Paint&lt;/a&gt;&lt;/h4&gt;
+
+	&lt;p&gt;To go along with the unprecedented development in increasing the safety measures Al Madina Misurata Paints produced an oily completely safe paint to health and environment which is diluted by water. It is vulnerable to yellowness and it has all the characteristics and power of the oily paint.&lt;/p&gt;
+
+	&lt;p&gt;Wait for it in the Libyan market.&lt;/p&gt;
+
+	&lt;div class=&quot;btn-addtocart right&quot;&gt;&lt;a href=&quot;#&quot;&gt;More details&lt;/a&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+	&lt;div class=&quot;news-wrapper&quot;&gt;
+	&lt;div class=&quot;news-content-left&quot;&gt;&lt;a&gt;&lt;img src=&quot;catalog/view/theme/default/image/custom/news/tn5.jpg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+	&lt;div class=&quot;news-content-right&quot;&gt;
+	&lt;h4 class=&quot;news-content-title&quot;&gt;&lt;a&gt;Al Madina Misurata Paints Produced Oily Completely Safe Paint&lt;/a&gt;&lt;/h4&gt;
+
+	&lt;p&gt;To go along with the unprecedented development in increasing the safety measures Al Madina Misurata Paints produced an oily completely safe paint to health and environment which is diluted by water. It is vulnerable to yellowness and it has all the characteristics and power of the oily paint.&lt;/p&gt;
+
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+	&lt;div class=&quot;btn-addtocart right&quot;&gt;&lt;a href=&quot;#&quot;&gt;More details&lt;/a&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+";}i:5;a:7:{s:14:"information_id";s:1:"9";s:6:"bottom";s:1:"1";s:10:"sort_order";s:1:"3";s:6:"status";s:1:"0";s:11:"language_id";s:1:"1";s:5:"title";s:10:"Our Stores";s:11:"description";s:13692:"&lt;style type=&quot;text/css&quot;&gt;@font-face {
+    font-family: 'BebasNeueRegular';
+    src: url('../fonts/BebasNeue-webfont.eot');
+    src: url('../fonts/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/BebasNeue-webfont.woff') format('woff'),
+      url('../fonts/BebasNeue-webfont.ttf') format('truetype'),
+      url('../fonts/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+.ac-container{
+	width: 60%;
+	margin: 10px auto 30px auto;
+	text-align: left; 
+}
+.ac-container label{
+    font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
+	padding: 5px 20px;
+	position: relative;
+	z-index: 20;
+	display: block;
+	height: 30px;
+	cursor: pointer;
+	color: #777;
+	/*text-shadow: 1px 1px 1px rgba(255,255,255,0.8);*/
+	line-height: 33px;
+	font-size: 19px;
+	background: #ffffff; border: 1px solid #C4BCBC;
+      
+}
+.ac-container label:hover{
+	background: #fff;
+        /*background: -moz-linear-gradient(top, #ffffff 1%, #eaeaea 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#ffffff), color-stop(100%,#eaeaea));
+	background: -webkit-linear-gradient(top, #ffffff 1%,#eaeaea 100%);
+	background: -o-linear-gradient(top, #ffffff 1%,#eaeaea 100%);
+	background: -ms-linear-gradient(top, #ffffff 1%,#eaeaea 100%);
+	background: linear-gradient(top, #ffffff 1%,#eaeaea 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#eaeaea',GradientType=0 );
+	box-shadow: 
+		0px 0px 0px 1px rgba(155,155,155,0.3), 
+		1px 0px 0px 0px rgba(255,255,255,0.9) inset, 
+		0px 2px 2px rgba(0,0,0,0.1);*/
+}
+.ac-container input:checked + label,
+.ac-container input:checked + label:hover{
+    background: #022E62;
+	color: #ffffff;
+	/*text-shadow: 0px 1px 1px rgba(255,255,255, 0.6);border: 1px dashed red;*/
+	
+}
+.ac-container label:hover:after,
+.ac-container input:checked + label:hover:after{
+	content: '';
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	right: 13px;
+	top: 7px;
+    background: transparent url('../image/custom/arrow_down.png') no-repeat center center;	
+}
+.ac-container input:checked + label:hover:after{
+	background-image: url('../image/custom/arrow_up.png');
+}
+.ac-container input{
+	display: none;
+}
+.ac-container article{
+	background: rgba(255, 255, 255, 0.5);
+	margin-top: -1px;
+	overflow: hidden;
+	height: 0px;
+	position: relative;
+	z-index: 10;
+	-webkit-transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
+	-moz-transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
+	-o-transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
+	-ms-transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
+	transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
+}
+article .ac-wrapper {
+    width: 70%;
+    margin: 20px auto; 
+}
+.ac-container article p{
+	color: #333;
+	padding-left: 50px;
+    padding-bottom: 10px;
+      
+        margin: 0;
+	text-shadow: 1px 1px 1px rgba(255,255,255,0.8);
+}
+.ac-container article h6{
+	color: #333;
+    font-weight: bold; 
+	margin: 0;
+        padding: 0;
+	text-shadow: 1px 1px 1px rgba(255,255,255,0.8);
+}
+.store-line {
+    /*border-bottom: 1px solid #A8A3A3;
+    margin: 10px; */
+        width: 62%;
+    margin-left: 50px; 
+}
+.ac-container input:checked ~ article{
+	-webkit-transition: height 0.5s ease-in-out, box-shadow 0.1s linear;
+	-moz-transition: height 0.5s ease-in-out, box-shadow 0.1s linear;
+	-o-transition: height 0.5s ease-in-out, box-shadow 0.1s linear;
+	-ms-transition: height 0.5s ease-in-out, box-shadow 0.1s linear;
+	transition: height 0.5s ease-in-out, box-shadow 0.1s linear;
+	box-shadow: 0px 0px 0px 1px rgba(155,155,155,0.6);
+}
+.ac-container input:checked ~ article.ac-misurata{
+	height: 440px;
+}
+.ac-container input:checked ~ article.ac-tripoli{
+	height: 685px;
+}
+.ac-container input:checked ~ article.ac-bnghazi{
+	height: 355px;
+}
+.ac-container input:checked ~ article.ac-agdabia{
+	height: 110px;
+}
+.ac-container input:checked ~ article.ac-albidaa{
+	height: 110px;
+}
+.ac-container input:checked ~ article.ac-sabha{
+	height: 110px;
+}
+.ac-container input:checked ~ article.ac-almarg{
+	height: 200px;
+}
+.ac-container input:checked ~ article.ac-alzawia{
+	height: 100px;
+}
+.ac-container input:checked ~ article.ac-hoon{
+	height: 110px;
+}
+.ac-container input:checked ~ article.ac-zowara{
+	height: 110px;
+}
+.ac-container input:checked ~ article.ac-algamil{
+	height: 110px;
+}
+&lt;/style&gt;
+&lt;div class=&quot;store-container&quot;&gt;
+&lt;section class=&quot;ac-container&quot;&gt;&lt;img src=&quot;catalog/view/theme/default/image/custom/store-img.jpg&quot; style=&quot;margin: 0 auto; padding-bottom: 20px;&quot; /&gt;
+&lt;p&gt;Our show rooms sell and color all our products by the computer. We use more than 15000 colors.&lt;br /&gt;
+These show rooms of which we have 30 all over Libya are managed by over 100 of the most experienced employees.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;ac-container&quot;&gt;
+&lt;h3&gt;Locate the City:&lt;/h3&gt;
+
+&lt;div&gt;&lt;input id=&quot;ac-1&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-1&quot;&gt;Misurata Stores&lt;/label&gt;
+
+&lt;article class=&quot;ac-misurata&quot;&gt;
+&lt;div class=&quot;ac-wrapper&quot;&gt;
+&lt;h6&gt;Al Zahi&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- Bnghazi St.- Near the Licensing Office&lt;br /&gt;
+- 051 2628270&lt;/p&gt;
+
+&lt;h6&gt;Al Gazira Al Gadida&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- Near the bus station&lt;br /&gt;
+- 051 2617186&lt;/p&gt;
+
+&lt;h6&gt;Al Madaen&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- Tripoli St.&lt;br /&gt;
+- 051 2622155; 051 5206520&lt;/p&gt;
+
+&lt;h6&gt;Abid Alwan&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- Bnighazi St.- Near Faculty of Arts&lt;br /&gt;
+- 051 5229005&lt;/p&gt;
+
+&lt;h6&gt;Aokhdora for Paint&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- Al Dis St.&lt;br /&gt;
+- 051 2615766&lt;/p&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;/div&gt;
+
+&lt;div&gt;&lt;input id=&quot;ac-2&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-2&quot;&gt;Tripoli Stores&lt;/label&gt;
+
+&lt;article class=&quot;ac-tripoli&quot;&gt;
+&lt;div class=&quot;ac-wrapper&quot;&gt;
+&lt;h6&gt;Al Zahi&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- Ain Zowara Area&lt;br /&gt;
+- 021 7189527&lt;/p&gt;
+
+&lt;h6&gt;Osool&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- Krkash- nearby Al Andalus district police station&lt;br /&gt;
+- 021 7151474&lt;/p&gt;
+
+&lt;h6&gt;Al Wafi&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- Al Hashan Area&lt;br /&gt;
+- 021 7160903&lt;/p&gt;
+
+&lt;h6&gt;Al Yakoot&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- Znatah Area&lt;br /&gt;
+- 092 4264685&lt;/p&gt;
+
+&lt;h6&gt;Al Madaen&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- 11 June Area- Al Maared Road&lt;br /&gt;
+- 021 7160835&lt;/p&gt;
+
+&lt;h6&gt;Al Motakhsesoon&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- Ganzor Area- In front of the disabled hospital&lt;br /&gt;
+- 021 7108964; 091 8791021; 092 7626836&lt;/p&gt;
+
+&lt;h6&gt;Al Marghni&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- Al Srag Area- Al Bar Mosque Road&lt;br /&gt;
+- 091 3106788&lt;/p&gt;
+
+&lt;h6&gt;Al Motaiser&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- Al Mashtal Road- Near a fuel station&lt;br /&gt;
+- 092 3359518&lt;/p&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;/div&gt;
+
+&lt;div&gt;&lt;input id=&quot;ac-3&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-3&quot;&gt;Bnghazi Stores&lt;/label&gt;
+
+&lt;article class=&quot;ac-bnghazi&quot;&gt;
+&lt;div class=&quot;ac-wrapper&quot;&gt;
+&lt;h6&gt;Alwan Al Zahi&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- Near the island of Sir Younis&lt;br /&gt;
+- 061 4821043&lt;/p&gt;
+
+&lt;h6&gt;Al Yakoot&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- Al Hegaz St.&lt;br /&gt;
+- 061 4820988&lt;/p&gt;
+
+&lt;h6&gt;Al Madaen&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- Building materials market - Industrial Zone&lt;br /&gt;
+- 061 4821032&lt;/p&gt;
+
+&lt;h6&gt;Karyones Center&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- Karyones area- Near the intersection of Valley Road&lt;br /&gt;
+- 061 4819608&lt;/p&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;/div&gt;
+
+&lt;div&gt;&lt;input id=&quot;ac-4&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-4&quot;&gt;Agdabia Stores&lt;/label&gt;
+
+&lt;article class=&quot;ac-agdabia&quot;&gt;
+&lt;div class=&quot;ac-wrapper&quot;&gt;
+&lt;h6&gt;Alzahi Colors&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- Al Kofra Street&lt;br /&gt;
+- 064 5201766&lt;/p&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;/div&gt;
+
+&lt;div&gt;&lt;input id=&quot;ac-5&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-5&quot;&gt;Al Bidaa Stores&lt;/label&gt;
+
+&lt;article class=&quot;ac-albidaa&quot;&gt;
+&lt;div class=&quot;ac-wrapper&quot;&gt;
+&lt;h6&gt;Al Zahi&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- Industrial Area- Sunday Market&lt;br /&gt;
+- 091 3348030&lt;/p&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;/div&gt;
+
+&lt;div&gt;&lt;input id=&quot;ac-6&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-6&quot;&gt;Sabha Stores&lt;/label&gt;
+
+&lt;article class=&quot;ac-sabha&quot;&gt;
+&lt;div class=&quot;ac-wrapper&quot;&gt;
+&lt;h6&gt;Al Madina Center&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- Gamal St.&lt;br /&gt;
+- 091 3734448&lt;/p&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;/div&gt;
+
+&lt;div&gt;&lt;input id=&quot;ac-7&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-7&quot;&gt;Al Marg Stores&lt;/label&gt;
+
+&lt;article class=&quot;ac-almarg&quot;&gt;
+&lt;div class=&quot;ac-wrapper&quot;&gt;
+&lt;h6&gt;Almarg Center&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- The Main St.- Near the intersection of Industrial&lt;br /&gt;
+- 067 7801407&lt;/p&gt;
+
+&lt;h6&gt;Zat Al Remal Center&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- The Main St.&lt;br /&gt;
+- 067 7621131; 092 8669205&lt;/p&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;/div&gt;
+
+&lt;div&gt;&lt;input id=&quot;ac-8&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-8&quot;&gt;Al Zawia Stores&lt;/label&gt;
+
+&lt;article class=&quot;ac-alzawia&quot;&gt;
+&lt;div class=&quot;ac-wrapper&quot;&gt;
+&lt;h6&gt;Al Madaen&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+-023 3102501&lt;/p&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;/div&gt;
+
+&lt;div&gt;&lt;input id=&quot;ac-9&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-9&quot;&gt;Hoon Stores&lt;/label&gt;
+
+&lt;article class=&quot;ac-hoon&quot;&gt;
+&lt;div class=&quot;ac-wrapper&quot;&gt;
+&lt;h6&gt;Al Zahi&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- Khaled Bn Al Waleed St.&lt;br /&gt;
+- 057 2605775; 091 3204505&lt;/p&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;/div&gt;
+
+&lt;div&gt;&lt;input id=&quot;ac-10&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-10&quot;&gt;Zowara Stores&lt;/label&gt;
+
+&lt;article class=&quot;ac-zowara&quot;&gt;
+&lt;div class=&quot;ac-wrapper&quot;&gt;
+&lt;h6&gt;World Paint&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- Al Sahly Road&lt;br /&gt;
+- 091 3204776; 091 3785084&lt;/p&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;/div&gt;
+
+&lt;div&gt;&lt;input id=&quot;ac-11&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-11&quot;&gt;Al Gamil Stores&lt;/label&gt;
+
+&lt;article class=&quot;ac-algamil&quot;&gt;
+&lt;div class=&quot;ac-wrapper&quot;&gt;
+&lt;h6&gt;Al Gamil Center&lt;/h6&gt;
+
+&lt;p&gt;- Sale and coloring products of Al Madina Misurata Paints via computer&lt;br /&gt;
+- Al Manshia- Near United Bank&lt;br /&gt;
+- +218 92 8749820; 091 3815932&lt;/p&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+&lt;/div&gt;
+";}i:6;a:7:{s:14:"information_id";s:1:"3";s:6:"bottom";s:1:"1";s:10:"sort_order";s:1:"2";s:6:"status";s:1:"1";s:11:"language_id";s:1:"1";s:5:"title";s:14:"Privacy Policy";s:11:"description";s:9002:"&lt;p&gt;This Privacy Policy governs the manner in which Almadina Misurata Paints collects, uses, maintains and discloses information collected from users (each, a &quot;User&quot;) of the &lt;a href=&quot;http://www.almadinamisurata.com/&quot; target=&quot;_blank&quot;&gt;almadinamisurata.com&lt;/a&gt; website (&quot;Site&quot;). This privacy policy applies to the Site and all products and services offered by Almadina Misurata Paints.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Personal identification information&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Non-personal identification information&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Web browser cookies&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Our Site may use &quot;cookies&quot; to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;How we use collected information&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Almadina Misurata Paints may collect and use Users personal information for the following purposes:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;i&gt;- To improve customer service&lt;/i&gt;&lt;br /&gt;
+	Information you provide helps us respond to your customer service requests and support needs more efficiently.&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;- To personalize user experience&lt;/i&gt;&lt;br /&gt;
+	We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;- To improve our Site&lt;/i&gt;&lt;br /&gt;
+	We may use feedback you provide to improve our products and services.&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;- To process payments&lt;/i&gt;&lt;br /&gt;
+	We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;- To run a promotion, contest, survey or other Site feature&lt;/i&gt;&lt;br /&gt;
+	To send Users information they agreed to receive about topics we think will be of interest to them.&lt;/li&gt;
+	&lt;li&gt;&lt;i&gt;- To send periodic emails&lt;/i&gt;&lt;br /&gt;
+	We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;How we protect your information&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.&lt;br /&gt;
+&lt;br /&gt;
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Sharing your personal information&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Third party websites&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Advertising&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Google Adsense&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses &quot;non personally identifiable information&quot; and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at &lt;a href=&quot;http://www.google.com/privacy_ads.html&quot; target=&quot;_blank&quot;&gt;http://www.google.com/privacy_ads.html&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Changes to this privacy policy&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Almadina Misurata Paints has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Your acceptance of these terms&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Contacting us&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:&lt;br /&gt;
+&lt;a href=&quot;http://www.almadinamisurata.com/&quot; target=&quot;_blank&quot;&gt;Almadina Misurata Paints&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.almadinamisurata.com/&quot; target=&quot;_blank&quot;&gt;almadinamisurata.com&lt;/a&gt;&lt;br /&gt;
+Libya- Misurata- Industrial Zone- Al-Aswak&lt;br /&gt;
++051 272 2405 / +051 272 2406&lt;br /&gt;
++051 272 2008 / +051 272 2009&lt;br /&gt;
+info@almadinamisurata.com&lt;br /&gt;
+marketing@almadinamisurata.com&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+";}i:7;a:7:{s:14:"information_id";s:1:"5";s:6:"bottom";s:1:"1";s:10:"sort_order";s:1:"3";s:6:"status";s:1:"0";s:11:"language_id";s:1:"1";s:5:"title";s:22:"Terms &amp; Conditions";s:11:"description";s:47:"&lt;p&gt;Terms &amp;amp; Conditions&lt;/p&gt;
+";}}
